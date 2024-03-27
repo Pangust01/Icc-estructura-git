@@ -1,4 +1,4 @@
-package taller_git;
+package src;
 
 public class aplicacion {
     public static void main(String[] args) {
